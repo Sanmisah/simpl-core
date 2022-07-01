@@ -1,0 +1,18 @@
+{
+    "name": "simpl/core",
+    "description": "Simple Core Plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simpl\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanjeev Divekar",
+            "email": "sanjeev@sanmisha.com"
+        }
+    ],
+    "require": {}
+}
